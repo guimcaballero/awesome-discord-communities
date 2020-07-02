@@ -1,5 +1,9 @@
 <img align="right" height="207x" width="205px" alt="Banner" src="images/awesome_programming_discord.png" />
 
+<!-- markdownlint-disable MD041 -->
+> __Note:__ If you're seeing this message please [click here](https://github.com/mhxion/awesome-programming-discord/blob/main/README.md) to go to the updated branch. The `master` branch will be discontinued soon. The default branch is now [`main`](https://github.com/mhxion/awesome-programming-discord/blob/main/README.md).
+> If you've forked the `master` branch before, you're highly advised to update your branch.
+
 <!-- omit in toc -->
 # Awesome Discord Communities [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
