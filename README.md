@@ -48,6 +48,8 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Rust](#rust)
   - [Swift](#swift)
   - [Typescript](#typescript)
+  - [V](#v)
+  - [WebAssembly](#webassembly)
 - [Web Development](#web-development)
   - [Web Frameworks](#web-frameworks)
   - [Node.js](#nodejs)
@@ -145,6 +147,13 @@ Language: English
 Notable Channels: `#beginners`, `#interview-prep`, `#java-and-jvm`,`#c-sharp-and-dotnet`, `#ai-and-ml`, `#asm-and-systems`, `#cs-theory`, `#databses`, `#software-architecture`, `#shells`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_codinghelp.png" />
+
+[__r/CodingHelp__](https://discord.com/invite/dbe5NnA) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/CodingHelp/) \
+Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_coding_den.png" />
 
 [__The Coding Den__](https://discord.com/invite/code) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TheCodingDen) \
@@ -162,13 +171,6 @@ Language: English
 [__The Programmer's Hangout__](https://discord.com/invite/programming) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://theprogrammershangout.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/the-programmers-hangout) \
 Notable Channels: `#beginners`, `#javascript`, `#java`, `#kotlin`,`#rust-lang`, `#ruby`, `#ai-and-ml`, `#career-advice`, `#databases`, `#gamedev`, `#ux-and-ui`, `#shells`, `#version-control`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_codinghelp.png" />
-
-[__r/CodingHelp__](https://discord.com/invite/dbe5NnA) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/CodingHelp/) \
-Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp` \
-Language: English \
-<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webdev_and_web_design.png" />
 
@@ -198,8 +200,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs50.png" />
 
-[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.edx.org/course/cs50s-introduction-to-computer-science)\
-Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, __[`so much more`](badges.md#so-much-more)__ \
+[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](httpsr/CodingHelpntal`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Mathematics
@@ -652,6 +653,28 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
 
+### V
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_v_language_and_apps.png" />
+
+[__The V Language & Apps__](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vlang) \
+Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
+
+### WebAssembly
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/assemblyscript.png" />
+
+[__AssemblyScript__](https://discord.com/invite/assemblyscript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.assemblyscript.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/AssemblyScript) \
+Notable Channels: `#general`, `#help`, `#built-with-assemblyscript`, `#development`, `#community-group`, `#as-pect` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webassembly.png" />
+
+[__WebAssembly__](https://discord.com/invite/53u3EKq) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebAssembly) \
+Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
+Language: English
+
 ## Web Development
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
@@ -718,16 +741,23 @@ Language: English \
 
 ### React.js
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" />
+
+[__Gatsby__](https://discord.gg/gatsby) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://www.gatsbyjs.org) \
+Notable Channels: `#general`, `#help`, `#showcase`, `#development`, `#starter-kits`, `#jobs`, `#graphql`, `#vuejs`, `#data-sourcing`, `#markdown`, `#drupal`, `#craft-cms`, `#dato-cms`, `#cockpit-cms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" />
+
+[__Invertase OSS__](https://discord.com/invite/C9aK28N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase) \
+Notable Channels: `#notifee`, `#apple-authentication`, `#general`, `#i-need-help`, `#i-made-this`, `#contributing`, `#news`, `#modules` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
 [__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
 Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
-| ---------------------- | ------------------- |
-| [__Gatsby__](https://discord.gg/gatsby)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gatsbyjs/gatsby) | [__Invertase OSS__](https://discord.com/invite/C9aK28N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase/react-native-firebase) |
 
 ### Vue.js
 
@@ -1018,6 +1048,12 @@ Language: English
 
 ### Gaming on Linux
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamingonlinux.png" />
+
+[__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gamingonlinux.com/) \
+Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
 [__Linux Gaming__](https://discord.com/invite/linuxgaming) \
@@ -1037,6 +1073,12 @@ Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linu
 Language: English
 
 ### Other OS
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.png" />
+
+[__ReactOS Community__](https://discord.com/invite/7knjvhT) \
+Notable Channels: `#general`, `#support`, `#working-programs`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-news` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_chromeos.png" />
 
